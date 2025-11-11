@@ -32,5 +32,5 @@ Tudo isso é <b>processamento de linguagem natural.</p>
 
 Dividir a frase em partes menores (palavras, expressões).
 
-""
+"Eu gosto de café"→ [“Eu”, “gosto”, “de”, “café”] 
 
