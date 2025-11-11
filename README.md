@@ -26,21 +26,21 @@ Quando você digita:
 
 Tudo isso é <b>processamento de linguagem natural.</p>
 
-### ⚙️ As principais etapas do PLN
+## ⚙️ As principais etapas do PLN
 
-<b>1. Tokenização</b>
+### 1. Tokenização
 
 Dividir a frase em partes menores (palavras, expressões).
 
 "Eu gosto de café"→ [“Eu”, “gosto”, “de”, “café”] 
 
-<b>2. Análise semântica</b>
+### 2. Análise semântica
 
 Identicar a estrutura gramatical da frase.
 
 "Eu" = sujeito | "gosto" = verbo | "de café" = complemento
 
-<b>3. Análise semântica</b>
+### 3. Análise semântica
 
 Compreender o <b>significado</b> das palavras e suas relações.
 
