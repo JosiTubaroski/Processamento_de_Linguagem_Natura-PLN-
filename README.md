@@ -34,3 +34,16 @@ Dividir a frase em partes menores (palavras, expressões).
 
 "Eu gosto de café"→ [“Eu”, “gosto”, “de”, “café”] 
 
+<b>2. Análise semântica</b>
+
+Identicar a estrutura gramatical da frase.
+
+"Eu" = sujeito | "gosto" = verbo | "de café" = complemento
+
+<b>3. Análise semântica</b>
+
+Compreender o <b>significado</b> das palavras e suas relações.
+
+"gostar de café" significa uma preferência.
+
+
