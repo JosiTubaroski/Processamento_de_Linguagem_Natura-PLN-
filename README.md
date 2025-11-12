@@ -111,3 +111,9 @@ Vamos usar a biblioteca <b>spaCy</b>, uma das mais modernas de Processamento de 
     print("\n=== Vetor Semântico ===")
     print(doc.vector[:10])  # mostra só os 10 primeiros valores
 
+
+### 🧩 O que esse código faz:
+
+<b>1. Carrega um modelo linguístico do português</b> - que contém regras gramaticais e significados.
+<b>2. Divide o texto em tokens</b> (palavras e pontuação).
+<b>3. Faz a análise sintática</b> (quem é sujeito, verbo, objeto, etc.).
